@@ -37,6 +37,5 @@ The script adopts a simplistic approach to sentiment analysis by extracting key 
 Shortcomings and Future Improvements
 The key phrase extraction method may overlook complex relationships within the text. Future improvements could involve incorporating more sophisticated NLP techniques for richer key phrase extraction.
 TextBlob's sentiment analysis may not capture subtle nuances in sentiment. Enhancements could include training custom sentiment analysis models or integrating more advanced sentiment analysis techniques.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
